@@ -11,30 +11,29 @@
 		3760A45C21F1383F004D1E07 /* BagelRequestCarrier.m in Sources */ = {isa = PBXBuildFile; fileRef = 3760A44221F1383F004D1E07 /* BagelRequestCarrier.m */; };
 		3760A45D21F1383F004D1E07 /* BagelController.h in Headers */ = {isa = PBXBuildFile; fileRef = 3760A44321F1383F004D1E07 /* BagelController.h */; };
 		3760A45E21F1383F004D1E07 /* BagelUtility.m in Sources */ = {isa = PBXBuildFile; fileRef = 3760A44421F1383F004D1E07 /* BagelUtility.m */; };
-		3760A45F21F1383F004D1E07 /* BagelProjectModel.h in Headers */ = {isa = PBXBuildFile; fileRef = 3760A44521F1383F004D1E07 /* BagelProjectModel.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		3760A46021F1383F004D1E07 /* BagelConfiguration.h in Headers */ = {isa = PBXBuildFile; fileRef = 3760A44621F1383F004D1E07 /* BagelConfiguration.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3760A45F21F1383F004D1E07 /* BagelProjectModel.h in Headers */ = {isa = PBXBuildFile; fileRef = 3760A44521F1383F004D1E07 /* BagelProjectModel.h */; };
+		3760A46021F1383F004D1E07 /* BagelConfiguration.h in Headers */ = {isa = PBXBuildFile; fileRef = 3760A44621F1383F004D1E07 /* BagelConfiguration.h */; };
 		3760A46121F1383F004D1E07 /* Bagel.m in Sources */ = {isa = PBXBuildFile; fileRef = 3760A44721F1383F004D1E07 /* Bagel.m */; };
 		3760A46221F1383F004D1E07 /* BagelRequestInfo.m in Sources */ = {isa = PBXBuildFile; fileRef = 3760A44821F1383F004D1E07 /* BagelRequestInfo.m */; };
 		3760A46321F1383F004D1E07 /* BagelURLSessionInjector.m in Sources */ = {isa = PBXBuildFile; fileRef = 3760A44921F1383F004D1E07 /* BagelURLSessionInjector.m */; };
 		3760A46421F1383F004D1E07 /* BagelBaseModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 3760A44A21F1383F004D1E07 /* BagelBaseModel.m */; };
 		3760A46521F1383F004D1E07 /* BagelURLConnectionInjector.h in Headers */ = {isa = PBXBuildFile; fileRef = 3760A44B21F1383F004D1E07 /* BagelURLConnectionInjector.h */; };
 		3760A46621F1383F004D1E07 /* BagelBrowser.m in Sources */ = {isa = PBXBuildFile; fileRef = 3760A44C21F1383F004D1E07 /* BagelBrowser.m */; };
-		3760A46721F1383F004D1E07 /* BagelRequestPacket.h in Headers */ = {isa = PBXBuildFile; fileRef = 3760A44D21F1383F004D1E07 /* BagelRequestPacket.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3760A46721F1383F004D1E07 /* BagelRequestPacket.h in Headers */ = {isa = PBXBuildFile; fileRef = 3760A44D21F1383F004D1E07 /* BagelRequestPacket.h */; };
 		3760A46821F1383F004D1E07 /* BagelController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3760A44E21F1383F004D1E07 /* BagelController.m */; };
 		3760A46921F1383F004D1E07 /* BagelRequestCarrier.h in Headers */ = {isa = PBXBuildFile; fileRef = 3760A44F21F1383F004D1E07 /* BagelRequestCarrier.h */; };
-		3760A46A21F1383F004D1E07 /* BagelDeviceModel.h in Headers */ = {isa = PBXBuildFile; fileRef = 3760A45021F1383F004D1E07 /* BagelDeviceModel.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3760A46A21F1383F004D1E07 /* BagelDeviceModel.h in Headers */ = {isa = PBXBuildFile; fileRef = 3760A45021F1383F004D1E07 /* BagelDeviceModel.h */; };
 		3760A46B21F1383F004D1E07 /* BagelProjectModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 3760A45121F1383F004D1E07 /* BagelProjectModel.m */; };
-		3760A46C21F1383F004D1E07 /* BagelUtility.h in Headers */ = {isa = PBXBuildFile; fileRef = 3760A45221F1383F004D1E07 /* BagelUtility.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3760A46C21F1383F004D1E07 /* BagelUtility.h in Headers */ = {isa = PBXBuildFile; fileRef = 3760A45221F1383F004D1E07 /* BagelUtility.h */; };
 		3760A46D21F1383F004D1E07 /* BagelURLSessionInjector.h in Headers */ = {isa = PBXBuildFile; fileRef = 3760A45321F1383F004D1E07 /* BagelURLSessionInjector.h */; };
-		3760A46E21F1383F004D1E07 /* BagelRequestInfo.h in Headers */ = {isa = PBXBuildFile; fileRef = 3760A45421F1383F004D1E07 /* BagelRequestInfo.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		3760A46F21F1383F004D1E07 /* Bagel.h in Headers */ = {isa = PBXBuildFile; fileRef = 3760A45521F1383F004D1E07 /* Bagel.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3760A46E21F1383F004D1E07 /* BagelRequestInfo.h in Headers */ = {isa = PBXBuildFile; fileRef = 3760A45421F1383F004D1E07 /* BagelRequestInfo.h */; };
+		3760A46F21F1383F004D1E07 /* Bagel.h in Headers */ = {isa = PBXBuildFile; fileRef = 3760A45521F1383F004D1E07 /* Bagel.h */; };
 		3760A47021F1383F004D1E07 /* BagelConfiguration.m in Sources */ = {isa = PBXBuildFile; fileRef = 3760A45621F1383F004D1E07 /* BagelConfiguration.m */; };
 		3760A47121F1383F004D1E07 /* BagelRequestPacket.m in Sources */ = {isa = PBXBuildFile; fileRef = 3760A45721F1383F004D1E07 /* BagelRequestPacket.m */; };
 		3760A47221F1383F004D1E07 /* BagelBrowser.h in Headers */ = {isa = PBXBuildFile; fileRef = 3760A45821F1383F004D1E07 /* BagelBrowser.h */; };
 		3760A47321F1383F004D1E07 /* BagelURLConnectionInjector.m in Sources */ = {isa = PBXBuildFile; fileRef = 3760A45921F1383F004D1E07 /* BagelURLConnectionInjector.m */; };
-		3760A47421F1383F004D1E07 /* BagelBaseModel.h in Headers */ = {isa = PBXBuildFile; fileRef = 3760A45A21F1383F004D1E07 /* BagelBaseModel.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		3760A47B21F13A47004D1E07 /* CocoaAsyncSocket.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3760A47A21F13A47004D1E07 /* CocoaAsyncSocket.framework */; };
-		51102CE2220B87290067EB63 /* BagelCarrierDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = 51102CE1220B857E0067EB63 /* BagelCarrierDelegate.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		3760A47421F1383F004D1E07 /* BagelBaseModel.h in Headers */ = {isa = PBXBuildFile; fileRef = 3760A45A21F1383F004D1E07 /* BagelBaseModel.h */; };
+		51102CE2220B87290067EB63 /* BagelCarrierDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = 51102CE1220B857E0067EB63 /* BagelCarrierDelegate.h */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -66,7 +65,6 @@
 		3760A45921F1383F004D1E07 /* BagelURLConnectionInjector.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BagelURLConnectionInjector.m; sourceTree = "<group>"; };
 		3760A45A21F1383F004D1E07 /* BagelBaseModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BagelBaseModel.h; sourceTree = "<group>"; };
 		3760A47521F13872004D1E07 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = SOURCE_ROOT; };
-		3760A47A21F13A47004D1E07 /* CocoaAsyncSocket.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CocoaAsyncSocket.framework; path = Carthage/Build/iOS/CocoaAsyncSocket.framework; sourceTree = SOURCE_ROOT; };
 		51102CE1220B857E0067EB63 /* BagelCarrierDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BagelCarrierDelegate.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -75,7 +73,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3760A47B21F13A47004D1E07 /* CocoaAsyncSocket.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -86,8 +83,7 @@
 			isa = PBXGroup;
 			children = (
 				3760A47521F13872004D1E07 /* Info.plist */,
-				3760A44021F1383F004D1E07 /* Source */,
-				3760A47921F13A35004D1E07 /* Frameworks */,
+				3760A44021F1383F004D1E07 /* Sources */,
 				3760A3F321F137B8004D1E07 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -100,23 +96,18 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		3760A44021F1383F004D1E07 /* Source */ = {
+		3760A44021F1383F004D1E07 /* Sources */ = {
 			isa = PBXGroup;
 			children = (
-				3760A45521F1383F004D1E07 /* Bagel.h */,
+				5A6C97E225BA3114000BFBF0 /* include */,
 				3760A44721F1383F004D1E07 /* Bagel.m */,
-				3760A45A21F1383F004D1E07 /* BagelBaseModel.h */,
 				3760A44A21F1383F004D1E07 /* BagelBaseModel.m */,
 				3760A45821F1383F004D1E07 /* BagelBrowser.h */,
 				3760A44C21F1383F004D1E07 /* BagelBrowser.m */,
-				51102CE1220B857E0067EB63 /* BagelCarrierDelegate.h */,
-				3760A44621F1383F004D1E07 /* BagelConfiguration.h */,
 				3760A45621F1383F004D1E07 /* BagelConfiguration.m */,
 				3760A44321F1383F004D1E07 /* BagelController.h */,
 				3760A44E21F1383F004D1E07 /* BagelController.m */,
-				3760A45021F1383F004D1E07 /* BagelDeviceModel.h */,
 				3760A44121F1383F004D1E07 /* BagelDeviceModel.m */,
-				3760A44521F1383F004D1E07 /* BagelProjectModel.h */,
 				3760A45121F1383F004D1E07 /* BagelProjectModel.m */,
 				3760A44F21F1383F004D1E07 /* BagelRequestCarrier.h */,
 				3760A44221F1383F004D1E07 /* BagelRequestCarrier.m */,
@@ -128,18 +119,23 @@
 				3760A45921F1383F004D1E07 /* BagelURLConnectionInjector.m */,
 				3760A45321F1383F004D1E07 /* BagelURLSessionInjector.h */,
 				3760A44921F1383F004D1E07 /* BagelURLSessionInjector.m */,
-				3760A45221F1383F004D1E07 /* BagelUtility.h */,
 				3760A44421F1383F004D1E07 /* BagelUtility.m */,
 			);
-			path = Source;
+			path = Sources;
 			sourceTree = SOURCE_ROOT;
 		};
-		3760A47921F13A35004D1E07 /* Frameworks */ = {
+		5A6C97E225BA3114000BFBF0 /* include */ = {
 			isa = PBXGroup;
 			children = (
-				3760A47A21F13A47004D1E07 /* CocoaAsyncSocket.framework */,
+				3760A45521F1383F004D1E07 /* Bagel.h */,
+				3760A45A21F1383F004D1E07 /* BagelBaseModel.h */,
+				51102CE1220B857E0067EB63 /* BagelCarrierDelegate.h */,
+				3760A44621F1383F004D1E07 /* BagelConfiguration.h */,
+				3760A45021F1383F004D1E07 /* BagelDeviceModel.h */,
+				3760A44521F1383F004D1E07 /* BagelProjectModel.h */,
+				3760A45221F1383F004D1E07 /* BagelUtility.h */,
 			);
-			path = Frameworks;
+			path = include;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -149,19 +145,19 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3760A46F21F1383F004D1E07 /* Bagel.h in Headers */,
-				51102CE2220B87290067EB63 /* BagelCarrierDelegate.h in Headers */,
 				3760A45D21F1383F004D1E07 /* BagelController.h in Headers */,
 				3760A47221F1383F004D1E07 /* BagelBrowser.h in Headers */,
-				3760A46021F1383F004D1E07 /* BagelConfiguration.h in Headers */,
 				3760A46921F1383F004D1E07 /* BagelRequestCarrier.h in Headers */,
+				3760A46F21F1383F004D1E07 /* Bagel.h in Headers */,
+				51102CE2220B87290067EB63 /* BagelCarrierDelegate.h in Headers */,
+				3760A46021F1383F004D1E07 /* BagelConfiguration.h in Headers */,
 				3760A46E21F1383F004D1E07 /* BagelRequestInfo.h in Headers */,
 				3760A46721F1383F004D1E07 /* BagelRequestPacket.h in Headers */,
 				3760A46A21F1383F004D1E07 /* BagelDeviceModel.h in Headers */,
 				3760A46C21F1383F004D1E07 /* BagelUtility.h in Headers */,
-				3760A46D21F1383F004D1E07 /* BagelURLSessionInjector.h in Headers */,
 				3760A47421F1383F004D1E07 /* BagelBaseModel.h in Headers */,
 				3760A45F21F1383F004D1E07 /* BagelProjectModel.h in Headers */,
+				3760A46D21F1383F004D1E07 /* BagelURLSessionInjector.h in Headers */,
 				3760A46521F1383F004D1E07 /* BagelURLConnectionInjector.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
