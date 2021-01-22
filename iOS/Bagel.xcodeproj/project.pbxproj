@@ -101,6 +101,13 @@
 		3760A44021F1383F004D1E07 /* Sources */ = {
 			isa = PBXGroup;
 			children = (
+				3760A45821F1383F004D1E07 /* BagelBrowser.h */,
+				3760A44321F1383F004D1E07 /* BagelController.h */,
+				3760A44F21F1383F004D1E07 /* BagelRequestCarrier.h */,
+				3760A45421F1383F004D1E07 /* BagelRequestInfo.h */,
+				3760A44D21F1383F004D1E07 /* BagelRequestPacket.h */,
+				3760A44B21F1383F004D1E07 /* BagelURLConnectionInjector.h */,
+				3760A45321F1383F004D1E07 /* BagelURLSessionInjector.h */,
 				5A6C97E225BA3114000BFBF0 /* include */,
 				3760A44721F1383F004D1E07 /* Bagel.m */,
 				3760A44A21F1383F004D1E07 /* BagelBaseModel.m */,
@@ -129,13 +136,6 @@
 				3760A45021F1383F004D1E07 /* BagelDeviceModel.h */,
 				3760A44521F1383F004D1E07 /* BagelProjectModel.h */,
 				3760A45221F1383F004D1E07 /* BagelUtility.h */,
-				3760A45821F1383F004D1E07 /* BagelBrowser.h */,
-				3760A44321F1383F004D1E07 /* BagelController.h */,
-				3760A44F21F1383F004D1E07 /* BagelRequestCarrier.h */,
-				3760A45421F1383F004D1E07 /* BagelRequestInfo.h */,
-				3760A44D21F1383F004D1E07 /* BagelRequestPacket.h */,
-				3760A44B21F1383F004D1E07 /* BagelURLConnectionInjector.h */,
-				3760A45321F1383F004D1E07 /* BagelURLSessionInjector.h */,
 			);
 			path = include;
 			sourceTree = "<group>";
